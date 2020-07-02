@@ -6,3 +6,8 @@ learnt
 * int
 * format{}
 * basics
+
+in sesion excercise
+* lists
+* tuples
+* dictionaries
