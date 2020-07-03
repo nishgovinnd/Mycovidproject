@@ -15,4 +15,8 @@ in sesion excercise
 day 2 of my project
 learnt
 * tkinter
-* plotting
+* csv
+
+day 3 of my project
+* plotting-differnt types
+* opening excel files and viewing data
